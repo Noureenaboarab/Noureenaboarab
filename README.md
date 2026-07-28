@@ -1,70 +1,87 @@
-# Noureen-Aboarab
-<!--
-  👋 Hi, I'm Noureen Abouarab
-  This README is designed to be dynamic and automatically update with your latest GitHub activity.
-  Just copy the content into a `README.md` file inside a public repository named `Noureenaboarab`.
--->
+# Hi there 👋 I'm Noureen Aboarab
 
-## 👋 Hello, I'm Noureen Aboarab
+### Full Stack Developer | Java & Spring Boot | Machine Learning & NLP Enthusiast
 
-Welcome to my GitHub corner! I'm a passionate developer and problem-solver who loves building meaningful applications and exploring new technologies. My journey spans web development, data science, and Arabic natural language processing, with a focus on creating tools that make a real impact.
+I'm passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. I enjoy solving real-world problems through software engineering while continuously learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+
+- 💻 Full Stack Developer with a strong interest in backend engineering
+- ☕ Experienced with Java, Spring Boot and REST APIs
+- 🗄️ Comfortable working with MySQL, PostgreSQL, and SQL
+- 🤖 Interested in Machine Learning
+- 🐳 Learning Docker, RabbitMQ,Microservices and cloud-native application development
+- 🌱 Always exploring new technologies and software architecture patterns
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noureenaboarab&show_icons=true&theme=radical" alt="Noureen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noureenaboarab&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noureenaboarab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Noureenaboarab?label=Followers&style=social" alt="GitHub followers" />
+<a href="https://github.com/MKSherbini">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Noureenaboarab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Noureenaboarab&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## 🎯 Currently Learning
 
-- **Languages:** Python, JavaScript, C++, SQL
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Data Science & AI:** Pandas, Scikit-learn, OCR, Sentiment Analysis
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Currently Exploring:** Arabic NLP, Full‑stack Development, Open Source
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **[Arabic_OCR_From_PDF](https://github.com/Noureenaboarab/Arabic_OCR_From_PDF)** | Performs Optical Character Recognition on scanned PDFs containing Arabic text and outputs searchable PDF files. |
-| **[ChatIn-ITI](https://github.com/Noureenaboarab/ChatIn-ITI)** | A real‑time chat application built during my ITI training, showcasing WebSocket and full‑stack integration. |
-| **[Electronic-Device-Rating-Prediction-Model](https://github.com/Noureenaboarab/Electronic-Device-Rating-Prediction-Model)** | A machine learning model that predicts user ratings for electronic devices based on product features. |
-| **[FOS_2024](https://github.com/Noureenaboarab/FOS_2024)** | Coursework and assignments from the Fundamentals of Operating Systems course. |
-| **[IP-25](https://github.com/Noureenaboarab/IP-25)** | Projects and exercises from the Internet Protocols course (Spring 2025). |
-| **[Movie-Review-Sentiment-Analysis](https://github.com/Noureenaboarab/Movie-Review-Sentiment-Analysis)** | A natural language processing project that classifies movie reviews as positive or negative. |
+- Microservices Architecture
+- Docker & Containerization
+- RabbitMQ Message Queues
+- Cloud Computing
+- System Design
+- Software Architecture
 
 ---
 
-## 🎯 What I'm Up To
-
-- 🔭 Currently working on improving my full‑stack skills and contributing to open source.
-- 🌱 Deepening my knowledge of cloud computing and scalable system design.
-- 💬 Ask me about web development, data science, or anything Arabic NLP!
-- ⚡ Fun fact: I enjoy solving algorithmic problems on platforms like Codeforces.
-
----
-
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noureen-aboarab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NoureenAboarab)
 
----
 
-<p align="center">
-  <i>"Code is poetry written in logic."</i>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noureenaboarab2003@gmail.com)
+
